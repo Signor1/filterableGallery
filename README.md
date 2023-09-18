@@ -82,10 +82,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 5. Create a pull request to the `main` branch of the original repository.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - [React](https://reactjs.org/)
